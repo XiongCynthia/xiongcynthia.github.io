@@ -15,3 +15,5 @@ Greetings! I am an undergraduate student at William & Mary studying data science
 
 - [RidgeRegression](https://xiongcynthia.github.io/RidgeRegression): An implementation of a Ridge regression model for fitting and predicting data.
 - [Lowess](https://xiongcynthia.github.io/Lowess): An implementation of a LOWESS model for fitting and predicting data.
+- [RegressionTree](https://xiongcynthia.github.io/RegressionTree): An implmentation of a regression tree for fitting and predictin data.
+- [GradientBoostedLowess](https://xiongcynthia.github.io/GradientBoostedLowess): An implementation of gradient boosting on the LOWESS model for fitting and predicting data.
