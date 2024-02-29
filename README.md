@@ -4,7 +4,6 @@
 
 Greetings! I am an undergraduate student at William & Mary studying data science and computer science. In my time, I have developed skills and interests in data analysis and storytelling, machine learning, natural language processing, and software development. I thrive on tackling challenges and finding innovative solutions that make a positive impact.
 
-
 <br clear="right">
 
 ---
@@ -18,3 +17,6 @@ Greetings! I am an undergraduate student at William & Mary studying data science
 - [RegressionTree](https://xiongcynthia.github.io/RegressionTree): An implmentation of a regression tree for fitting and predicting data.
 - [GradientBoostedLowess](https://xiongcynthia.github.io/GradientBoostedLowess): An implementation of gradient boosting on the LOWESS model for fitting and predicting data.
 - [KNearestNeighbors](https://xiongcynthia.github.io/KNearestNeighbors): An implementation of the k-nearest neighbors method.
+
+## Natural Language Processing
+- [ML with Sentimental Tomatoes](https://xiongcynthia.github.io/ML-with-Sentimental-Tomatoes): Predicting sentiment scores of movie reviews with EDA, feature engineering, and logistic regression/naïve Bayes models.
