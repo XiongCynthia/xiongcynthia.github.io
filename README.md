@@ -20,3 +20,8 @@ Greetings! I am an undergraduate student at William & Mary studying data science
 
 ## Natural Language Processing
 - [ML with Sentimental Tomatoes](https://xiongcynthia.github.io/ML-with-Sentimental-Tomatoes): Predicting sentiment scores of movie reviews with EDA, feature engineering, and logistic regression/naïve Bayes models.
+
+## Data Structures
+- [Linked_List](https://xiongcynthia.github.io/Literally-Loving-Linked-Lists): An implementation of a sentineled, doubly linked list.
+- [Binary_Search_Tree](https://xiongcynthia.github.io/Its-a-Jump-and-a-Step-in-the-AVL-Tree): An implementation of a self-balancing binary search tree.
+- [Stack, Queue, and Deques](https://xiongcynthia.github.io/Queue-the-Stacking-of-the-Deque): Implementations of a stack, a queue, and two unique deques.
