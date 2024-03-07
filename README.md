@@ -10,7 +10,7 @@ Greetings! I am an undergraduate student at William & Mary studying data science
 
 # Projects
 
-## Machine Learning
+## Machine Learning Methods
 
 - [RidgeRegression](https://xiongcynthia.github.io/RidgeRegression): An implementation of a Ridge regression model for fitting and predicting data.
 - [Lowess](https://xiongcynthia.github.io/Lowess): An implementation of a LOWESS model for fitting and predicting data.
@@ -18,8 +18,9 @@ Greetings! I am an undergraduate student at William & Mary studying data science
 - [GradientBoostedLowess](https://xiongcynthia.github.io/GradientBoostedLowess): An implementation of gradient boosting on the LOWESS model for fitting and predicting data.
 - [KNearestNeighbors](https://xiongcynthia.github.io/KNearestNeighbors): An implementation of the k-nearest neighbors method.
 
-## Natural Language Processing
+## Applied Machine Learning/Natural Language Processing
 - [ML with Sentimental Tomatoes](https://xiongcynthia.github.io/ML-with-Sentimental-Tomatoes): Predicting sentiment scores of movie reviews with EDA, feature engineering, and logistic regression/naïve Bayes models.
+- [Titanic - Machine Learning from Disaster](https://github.com/XiongCynthia/Titanic-Machine-Learning-from-Disaster/blob/main/titantic_survivor_predictor.ipynb): Predicting passenger survivor status with EDA, data cleansing and feature engineering.
 
 ## Data Structures
 - [Linked_List](https://xiongcynthia.github.io/Literally-Loving-Linked-Lists): An implementation of a sentineled, doubly linked list.
