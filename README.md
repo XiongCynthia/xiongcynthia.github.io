@@ -17,6 +17,7 @@ Greetings! I am an undergraduate student at William & Mary studying data science
 - [RegressionTree](https://xiongcynthia.github.io/RegressionTree): An implmentation of a regression tree for fitting and predicting data.
 - [GradientBoostedLowess](https://xiongcynthia.github.io/GradientBoostedLowess): An implementation of gradient boosting on the LOWESS model for fitting and predicting data.
 - [KNearestNeighbors](https://xiongcynthia.github.io/KNearestNeighbors): An implementation of the k-nearest neighbors method.
+- [SCADRegression](https://xiongcynthia.github.io/SCADRegression): An implementation of a linear model with SCAD penalty for fitting and predicting data.
 
 ## Applied Machine Learning/Natural Language Processing
 - [ML with Sentimental Tomatoes](https://xiongcynthia.github.io/ML-with-Sentimental-Tomatoes): Predicting sentiment scores of movie reviews with EDA, feature engineering, and logistic regression/naïve Bayes models.
