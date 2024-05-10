@@ -21,7 +21,8 @@ Greetings! I am an undergraduate student at William & Mary studying data science
 - [SCADRegression](https://xiongcynthia.github.io/SCADRegression): An implementation of a linear model with SCAD penalty for fitting and predicting data.
 
 ## Applied Machine Learning/Natural Language Processing
-- [HyperTuneCIFAR](https://github.com/XiongCynthia/HyperTuneCIFAR/blob/main/HyperTuneCIFAR.ipynb): Hyperparameter tuning on AlexNet for CIFAR-10 image classification using grid search.
+- [Sensor Fault Detection](https://xiongcynthia.github.io/SensorFaultDetection/): A performance analysis of predictive models for sensor fault detection, using statistical  methods, machine learning algorithms, and deep learning networks.
+- [HyperTune CIFAR](https://github.com/XiongCynthia/HyperTuneCIFAR/blob/main/HyperTuneCIFAR.ipynb): Hyperparameter tuning on AlexNet for CIFAR-10 image classification using grid search.
 - [ML with Sentimental Tomatoes](https://xiongcynthia.github.io/ML-with-Sentimental-Tomatoes): Predicting sentiment scores of movie reviews with EDA, feature engineering, and logistic regression/naïve Bayes models.
 - [Titanic - Machine Learning from Disaster](https://github.com/XiongCynthia/Titanic-Machine-Learning-from-Disaster/blob/main/titantic_survivor_predictor.ipynb): Predicting passenger survivor status with EDA, data cleansing and feature engineering.
 
