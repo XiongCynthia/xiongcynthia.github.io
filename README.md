@@ -2,7 +2,11 @@
 
 # About Me
 
-Greetings! I am an undergraduate student at William & Mary studying data science and computer science. In my time, I have developed skills and interests in data analysis and storytelling, machine learning, natural language processing, and software development. I thrive on tackling challenges and finding innovative solutions that make a positive impact.
+Greetings! I am an undergraduate student at William & Mary studying data science and computer science. Over time, I have developed skills and interests in data analysis and storytelling, machine learning, natural language processing, and software development. I thrive on tackling challenges and finding innovative solutions that make a positive impact.
+
+✉️ Email: cynthia.xiong@outlook.com <br>
+LinkedIn: [https://www.linkedin.com/in/xiong-cynthia](https://www.linkedin.com/in/xiong-cynthia) <br>
+Github: [https://github.com/XiongCynthia](https://github.com/XiongCynthia)
 
 <br clear="right">
 
@@ -13,7 +17,7 @@ Greetings! I am an undergraduate student at William & Mary studying data science
 ## Applied Machine Learning/Natural Language Processing
 
 - [Sensor Fault Detection](https://xiongcynthia.github.io/SensorFaultDetection/): A performance analysis of predictive models for sensor fault detection, using statistical  methods, machine learning algorithms, and deep learning networks.
-- [Insights of the Lotus](https://xiongcynthia.github.io/LotusInsights/): Unraveling the Lotus Sutra through topic modeling and network analysis.
+- [Insights of the Lotus](https://xiongcynthia.github.io/LotusInsights/): Unraveling the Buddhist text, the Lotus Sutra, through topic modeling and network analysis.
 - [HyperTune CIFAR](https://github.com/XiongCynthia/HyperTuneCIFAR/blob/main/HyperTuneCIFAR.ipynb): Hyperparameter tuning on AlexNet for CIFAR-10 image classification using grid search.
 - [ML with Sentimental Tomatoes](https://xiongcynthia.github.io/ML-with-Sentimental-Tomatoes): Predicting sentiment scores of movie reviews with EDA, feature engineering, and logistic regression/naïve Bayes models.
 - [Titanic - Machine Learning from Disaster](https://github.com/XiongCynthia/Titanic-Machine-Learning-from-Disaster/blob/main/titantic_survivor_predictor.ipynb): Predicting passenger survivor status with EDA, data cleansing and feature engineering.
