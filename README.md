@@ -19,6 +19,7 @@ Github: [https://github.com/XiongCynthia](https://github.com/XiongCynthia)
 - [Sensor Fault Detection](https://xiongcynthia.github.io/SensorFaultDetection/): A performance analysis of predictive models for sensor fault detection, using statistical  methods, machine learning algorithms, and deep learning networks.
 - [Insights of the Lotus](https://xiongcynthia.github.io/LotusInsights/): Unraveling the Buddhist text, the Lotus Sutra, through topic modeling and network analysis.
 - [HyperTune CIFAR](https://github.com/XiongCynthia/HyperTuneCIFAR/blob/main/HyperTuneCIFAR.ipynb): Hyperparameter tuning on AlexNet for CIFAR-10 image classification using grid search.
+- [Decoding YouTube Comments](https://xiongcynthia.github.io/Decoding-YouTube-Comments): Creating a novel dataset by collecting relevant YouTube video data, and researching methods for uncovering insights from the video comments using sentiment analysis and topic modeling techniques.
 - [ML with Sentimental Tomatoes](https://xiongcynthia.github.io/ML-with-Sentimental-Tomatoes): Predicting sentiment scores of movie reviews with EDA, feature engineering, and logistic regression/naïve Bayes models.
 - [Titanic - Machine Learning from Disaster](https://github.com/XiongCynthia/Titanic-Machine-Learning-from-Disaster/blob/main/titantic_survivor_predictor.ipynb): Predicting passenger survivor status with EDA, data cleansing and feature engineering.
 
