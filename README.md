@@ -14,6 +14,9 @@ Github: [https://github.com/XiongCynthia](https://github.com/XiongCynthia)
 
 # Projects
 
+## Simulation
+- [Penney's Game Simulation](https://xiongcynthia.github.io/PenneysGameSimulation/): A simulation on a variation of Penney's game, showcasing how sequence selection in repeated coin flips influences outcomes. Explore strategic choices, sequence matchups, and the probabilities that determine each sequence’s winning chances.
+
 ## Applied Machine Learning/Natural Language Processing
 
 - [Sensor Fault Detection](https://xiongcynthia.github.io/SensorFaultDetection/): A performance analysis of predictive models for sensor fault detection, using statistical  methods, machine learning algorithms, and deep learning networks.
